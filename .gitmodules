@@ -1,0 +1,4 @@
+[submodule "thecyberlearnerblog/public"]
+	path = thecyberlearnerblog/public
+	url = https://github.com/thecyberlearner/thecyberlearner.github.io.git
+	branch = master
